@@ -1,0 +1,18 @@
+{
+  "bloodCenters": [
+    {
+      "name": "coisa",
+      "point": {
+        "type": "Point",
+        "coordinates": [-14.4086569, -51.31668]
+      }
+    },
+    {
+      "name": "coisa",
+      "point": {
+        "type": "Point",
+        "coordinates": [-4.4086569, -51.31668]
+      }
+    }
+  ]
+}

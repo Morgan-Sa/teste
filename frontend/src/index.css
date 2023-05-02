@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+  border-bottom: 1px solid black;
+  flex: 1;
+  margin-left: 0.25rem;
+}
+
+label {
+  display: flex;
+  flex-direction: row;
+}
+
+.shadow {
+  box-shadow: 0 10px 10px #0004;
+}
+
+.common-button {
+  @apply text-white bg-blue-500 rounded-lg p-1 active:scale-[95%] transition-all
+}
